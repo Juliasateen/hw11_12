@@ -24,6 +24,7 @@
     flex-wrap: wrap;
     row-gap: 40px;
     column-gap: 20px;
+    background-color: aqua;
 }
 
 .members__card {
