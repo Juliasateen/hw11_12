@@ -1,9 +1,9 @@
 # Smoothie
 
 **Responsive website for all types of devices.**
-Description
-includes navigation menu
-contains four main blocks
+Description:
+* includes navigation menu
+* contains four main blocks
 
 Installation
 Download or Clone the Project from this repository.
