@@ -8,5 +8,5 @@
 
 **Installation**
 * Download or Clone the Project from this repository.
-* Run the index.html file through the google browser.
+* Run the index.html file through the browser.
 
