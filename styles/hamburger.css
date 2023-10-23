@@ -1,0 +1,25 @@
+.nav__hamburger {
+    display: none;
+    position: relative;
+    width: 30px;
+    height: 20px;
+    border-top: 3px solid var(--color-gray);
+    border-bottom: 3px solid var(--color-gray);
+    margin: 0 25px;
+}
+
+.nav__hamburger:before {
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 100%;
+    border-top: 3px solid var(--color-gray);
+}
+
+@media (max-width: 800px) {
+    .nav__hamburger {
+        display: block;
+    }
+    
+}

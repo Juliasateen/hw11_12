@@ -1,0 +1,36 @@
+@import "variables.css";
+@import "reset.css";
+@import "header.css";
+@import "slider.css";
+@import "hamburger.css";
+@import "intro.css";
+@import "stats.css";
+@import "members.css";
+@import "footer-top.css";
+@import "footer-bottom.css";
+
+.container {
+    width: 90%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.inner-container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.svg-wtite-line {
+    width: 100%;
+}
+
+
+
+
+@media (max-width: 1024px) {
+    .container {
+        width: 100%;
+    }
+    
+}
