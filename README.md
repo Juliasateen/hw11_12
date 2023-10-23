@@ -6,7 +6,7 @@
 * includes navigation menu
 * contains four main blocks
 
-**Installation**
+**Installation:**
 * Download or Clone the Project from this repository.
 * Run the index.html file through the browser.
 
