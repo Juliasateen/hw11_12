@@ -1,6 +1,6 @@
 # Smoothie
 
-Responsive website for all types of devices.
+**Responsive website for all types of devices.**
 Description
 includes navigation menu
 contains four main blocks
